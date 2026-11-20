@@ -20,3 +20,4 @@ Requisitos para APTO
 - Sin el servidor arrancado, el cliente hace los 3 reintentos y termina.
 - En un README explicáis qué formato habéis elegido para enviar las palabras.
   Ayúdame a hacer este ejercicio, pero no me lo hagas, dame una guia de pasos.
+
